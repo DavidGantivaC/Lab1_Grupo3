@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: STEWARD example
+  name: STEWARD-example
   namespace: default
   description: Servicio para otorgar aprobaciones de despliegues en ambientes productivos
   # Example for optional annotations
